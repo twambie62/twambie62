@@ -22,13 +22,19 @@ I build web and mobile products end to end, from the database and API to the int
 
 ###  Featured projects
 
+###  Featured projects
+
+###  Featured projects
+
 | Project | What it is | Stack |
 |---|---|---|
 | [LeadsDesk](https://github.com/twambie62/leads-desk) | Lead management system for sales teams to capture, qualify and track leads from Facebook and WhatsApp, with role-based access for admins and sales agents · [Live demo](https://leads-desk-u2k4.vercel.app/) | Next.js, TypeScript, PostgreSQL, Prisma, Docker |
-| [Track It Website](https://github.com/twambie62/track-it-website-2) | Responsive landing page for a productivity, personal finance and task management app · [Live demo](https://track-it-website-2.vercel.app/) | React, Vite, Tailwind CSS |
-| [Developer Portfolio](https://github.com/twambie62/portifolio) | Hand-coded personal portfolio with a filterable project grid, case studies, scroll-triggered GSAP animations and a fully responsive layout, built without a framework · [Live site](https://twambie62.github.io/portifolio/) | HTML, CSS, JavaScript, GSAP, GitHub Pages |
-| [Blood Pressure Monitor](https://github.com/twambie62/blood_pressure_app) | Android app showing real-time blood pressure readings from an ESP32 device | Kotlin, ESP32 |
+| [SalesVerse Website](https://salesverse-rho.vercel.app/) | Marketing website for a B2B lead generation agency, built section by section from my own UI design · [Live demo](https://salesverse-rho.vercel.app/) | Next.js, Vercel |
+| [Nyanja Health Website](https://nyanja-health.vercel.app/) | Redesigned and restructured website for a health research institute in Malawi, built to present its research, news and fundraising work to partners and grant funders · [Live demo](https://nyanja-health.vercel.app/) | Next.js, Vercel |
 | [Smart Home System](https://github.com/twambie62/smart-home-system) | IoT smart home control with rooms, automation and device settings | Java, IoT |
+| [Blood Pressure Monitor](https://github.com/twambie62/blood_pressure_app) | Android app showing real-time blood pressure readings from an ESP32 device | Kotlin, ESP32 |
+| [Developer Portfolio](https://github.com/twambie62/portifolio) | Hand-coded personal portfolio with a filterable project grid, case studies, scroll-triggered GSAP animations and a fully responsive layout, built without a framework · [Live site](https://twambie62.github.io/portifolio/) | HTML, CSS, JavaScript, GSAP, GitHub Pages |
+| [Track It Website](https://github.com/twambie62/track-it-website-2) | Responsive landing page for a productivity, personal finance and task management app · [Live demo](https://track-it-website-2.vercel.app/) | React, Vite, Tailwind CSS |
 ---
 
- Languages: English · Chichewa · French
+ Languages: English · Chichewa 
