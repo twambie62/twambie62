@@ -22,10 +22,6 @@ I build web and mobile products end to end, from the database and API to the int
 
 ###  Featured projects
 
-###  Featured projects
-
-###  Featured projects
-
 | Project | What it is | Stack |
 |---|---|---|
 | [LeadsDesk](https://github.com/twambie62/leads-desk) | Lead management system for sales teams to capture, qualify and track leads from Facebook and WhatsApp, with role-based access for admins and sales agents · [Live demo](https://leads-desk-u2k4.vercel.app/) | Next.js, TypeScript, PostgreSQL, Prisma, Docker |
